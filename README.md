@@ -3,4 +3,6 @@ An interactive web experience based on Harlan Ellison's short story of the same 
 
 Using HTML, CSS, Javascript(jQuery), and Adobe Audition, I designed, developed, recorded, and animated a website to experiment with the idea of stylized interactive narrative on the web.
 
+Viewable <a href="http://transmute.info/ihnmaims/">here</a>.
+
 <img src="https://dl.dropboxusercontent.com/u/27789438/ihnmaims_1.PNG"/>
